@@ -1,0 +1,27 @@
+# Glossary: Selling With
+
+- **Champion**: an insider with incentive, influence and information who sells for you when you're not in the room.
+- **Change Equation**: D x V x FS > R (dissatisfaction, vision, first steps vs. resistance), from Kathie Dannemiller.
+- **Deal momentum**: comparing deals by mass, velocity and time; most pipeline deals are dead by default.
+- **Forwardable email**: written so the champion can send it up; "writing through your champions."
+- **Functional vs. internal pains**: product-level pains vs. people, politics and career pains that create urgency.
+- **Hardwired POC**: a narrow proof of concept with go/no-go conditions and expansion terms written into the agreement upfront.
+- **Minimum Viable Sentence (MVS)**: goal, necessary context, call to reply.
+- **Mutual Action Plan (MAP)**: a backdated series of tasks, each with a date and owner, running through the decision to the buyer's desired outcome.
+- **Ocean map**: account map of how communication flows, not just the org chart.
+- **Secrecy-to-transparency spectrum**: how much a buyer decides to reveal when raising an objection.
+- **Seasons of pain**: spring (awakening), summer (heating up), fall (time running out); set close dates by season.
+- **Shadow players**: influencers outside the formal buying group.
+- **Three I's**: incentive, influence, information (champion test).
+- **Two-way door**: a reversible decision (Bezos); make POCs feel reversible.
+- **WIFM**: what's in it for me, answered in every written piece.
+- **Believability**: a discount rate on a champion's influence (from Ray Dalio).
+- **Deal debt**: the cost of overinvesting in dead-end deals.
+- **Compelling event**: a timebound need or goal that already exists inside the account; discovered, never manufactured.
+- **Math vs drama**: math problems (what you sell) have solutions; drama (people's stories and fears) doesn't, and keeps math problems unsolved.
+- **Minimally viable committee**: just enough people to confirm the problem, create a use case and clear the contract.
+- **Reverse demo**: the buyer demos their current workflow before you show yours.
+- **Trust hurdle / trust quotient**: the trust a deal needs vs the trust you've built (withdrawals count double).
+- **Hyperlinked decision**: framing a new choice as a repeat of a past choice that went well.
+- **Trigger phrase**: a three-to-five-word phrase executives repeat for a priority project.
+- **Approach**: how a problem gets solved, not who or what solves it; vendor-agnostic.

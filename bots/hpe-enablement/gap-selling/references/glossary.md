@@ -1,0 +1,27 @@
+# Glossary: Gap Selling
+
+- **Anchor your customer**: in the demo, make your solution the buyer's baseline by asking an affirming question after each feature ("Can you see how this feature will improve your churn rate?"); a no means stop and dig (Ch 11). Not a price anchor.
+- **B.A.N.T. is bunk**: budget, authority, need, timing are poor qualifiers (SKILL.md XI).
+- **Beauty contest**: an RFP that blocks discovery (Ch 7).
+- **Change cost**: the money, time, risk and effort of changing (Ch 9).
+- **CRM Challenge**: a peer reads your notes without the customer's name; if they can't tell which deal it is, discovery was too shallow (Ch 8, 18).
+- **Commit**: a forecast that must land within 15% either way; "an accuracy game, not a goal game" (Ch 19).
+- **Demand creation**: surfacing problems the buyer didn't know they had, vs reacting to stated need (Ch 8).
+- **Offer – Ask = Value**: every prospecting ask needs an offer worth more than it (Ch 16).
+- **ROSE**: return on sales effort; why you sometimes say no (Ch 12).
+- **Ten emotional threats**: Rosabeth Moss Kanter's list, cited by Keenan (Ch 2).
+- **Threat-o-meter**: the seven questions a buyer silently asks about change (Ch 2).
+- **Current state**: where the customer is: environment, problems, impact, root cause, emotion (Ch 3).
+- **Demo map**: PIC problems ranked by impact; demo only those (Ch 11).
+- **Future state**: where the customer wants to be (Ch 4).
+- **The gap**: the distance between current and future state; its size is the value (Ch 6).
+- **Healthy Pipeline Checklist**: close dates within 30 days, commits within 15%, next yes, strategy, coverage, evidence (Ch 18).
+- **I'm confused. You said...**: "my four favorite words" for calling out inconsistency (Ch 12).
+- **Intrigue**: surprise, mystery, or a knowledge gap that earns attention (Ch 16).
+- **Intrinsic motivation**: the personal why behind the purchase; Keenan calls the third part of the future state "the core of the future state" (Ch 10).
+- **Irresistible offer**: value given in exchange for the ask (Ch 16).
+- **Next yes**: the next agreement the customer values, with a date (Ch 12).
+- **Problem Identification Chart (PIC)**: three columns, problems your product solves, their impact and their root causes; built before prospecting (Ch 2, 8, 15).
+- **Root cause**: why the problem exists (Ch 3).
+- **Six features**: show only the few features that tie to their problems (Ch 11).
+- **Truthbombs**: Keenan's nine selling principles (Ch 2).

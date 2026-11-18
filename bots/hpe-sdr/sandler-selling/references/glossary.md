@@ -1,0 +1,49 @@
+# Glossary
+
+CHI = Chiarello, *Selling Technology the Sandler Way*. SES = Mattson and Sullivan, *Sandler Enterprise Selling*. "Standard Sandler" means the term is common in Sandler training but neither book defines it.
+
+- **30-second commercial**: introduction, a pain statement (three pain words in CHI), a benefit statement (SES), and a hook question. Then stop talking (CHI Ch 6; SES Ch 7).
+- **3x rule**: the problem must cost at least three times the fully implemented solution (CHI Ch 10).
+- **BAT / Success Triangle**: Behavior, Attitude and Technique (SES Ch 6).
+- **Biggest fear agreement**: once the MAP is built, raise the risk that the project goes on the back burner and get a promise to tell you (CHI Ch 10).
+- **Call Debrief**: written notes right after a call: what you learned, next steps, red flags, actions (SES Ch 11).
+- **Call-back test**: if you stopped calling, who would call you? (CHI Ch 2, 8).
+- **Cast of characters**: everyone in the decision, with role, stake and friend/neutral/enemy (CHI Ch 9; SES Ch 5, 8).
+- **Client2**: growing a won client across five areas: organic growth, partnerships and alliances, family tree, alumni, and the customer's customer (SES Ch 27).
+- **Coach**: an internal advocate. You need more than one (CHI Ch 9; SES Ch 12).
+- **Cookbook**: agreed weekly and monthly prospecting targets (CHI Ch 5).
+- **Executive bridging**: lining up your managers with the buyer's, for a truer forecast and to set up price talks (CHI Ch 12).
+- **End-user/feature disengagement**: buyers don't care about features or how the tech works (CHI Ch 1).
+- **FNE**: the friend, neutral or enemy mark on each stakeholder. Learn it one on one (CHI Ch 9; SES Ch 10).
+- **Fingerprinting**: getting the deciders' input on your plan so they own it (SES Ch 19).
+- **Haze of victory**: the urge to announce a verbal win. Don't until it's signed (SES Ch 23).
+- **Head trash**: a self-made belief that blocks selling, often from tying identity to the role (CHI Ch 5).
+- **Hockey stick**: quarters that spike in month three because buyers wait for discounts (CHI Ch 8).
+- **Invited in**: the buyer says yes to "Is this something worth pursuing?" and you now lead the cycle together (CHI Ch 12).
+- **KARE**: Keep, Attain, Recapture, Expand. One tag per account (SES Ch 3).
+- **MAP (mutual action plan)**: joint tasks and dates for both sides, ending in a yes or a no. Also called quid pro quo or a joint pursuit plan (CHI Ch 8, 10, 12).
+- **Monkey's paw**: a small first agreement (POC, prototype, pilot, trial, quick-start) that sets up a big partnership (SES Ch 20).
+- **Negative reverse**: saying the negative the buyer may be thinking, so they move toward you (standard Sandler; not in either book).
+- **No anvil sales**: there is always another day, and a loss is the first step to a win (SES Ch 22).
+- **Pain gap**: the gap between the current situation and the one the buyer wants. Your solution must bridge it (SES Ch 12).
+- **Pain funnel**: eight questions moving from the surface problem to its cost and feeling (SES Fig 12.2).
+- **Pattern interrupt**: a cold-call opener that breaks the buyer's reflex (CHI Ch 6).
+- **Postmortem**: an internal review of a loss or a win using the Pursuit Navigator (SES Ch 22, 23).
+- **Pre-call Planner**: a written plan for each enterprise meeting, with questions and answers (SES Ch 11).
+- **Pursuit Navigator**: a go/no-go risk review across client, selling team, and financing or contract (SES Ch 16).
+- **QPR x C%**: qualified-prospect revenue times close rate (CHI Ch 2).
+- **RACI**: Responsible, Accountable, Consulted, Informed (SES Ch 5).
+- **Research project**: one person exploring without the company's sanction to buy. The MAP exposes it (CHI Ch 12).
+- **Reversing**: answering a question with a question to find the reason behind it (CHI Ch 11 example; standard Sandler).
+- **Roadblocks**: technical or conceptual reasons a buyer who can pay won't (SES Ch 13).
+- **Showstopper**: a must-have you can't provide. It disqualifies (CHI Ch 11).
+- **Submarine**: the seven Sandler steps, from Bonding & Rapport to Post-sell (SES Read This First). The *close each hatch* image is standard Sandler.
+- **Team Storm**: a fast, five-step team brainstorm on one client issue (SES Ch 26).
+- **Three keys**: handle your own anxiety, understand the real objection, defuse the emotion (CHI Ch 11).
+- **Three Opportunity Planner (TOP)**: the three likeliest deals closing within 60 days (SES Ch 9).
+- **UFC (up-front contract)**: objective, time, prospect's agenda, salesperson's agenda, outcome (SES Ch 9).
+- **Value arrows**: four lines: when we have this, we will be able to, which means we benefit by, and we'll measure the improvements through (SES Ch 7, 18).
+- **Value links**: key words from your custom value proposition that you know resonate with this client, repeated through the proposal and talk tracks (SES Ch 18).
+- **Wake-up call**: how many people at your top account would call you back over a weekend? (SES Ch 8).
+- **Who's leading this dance?**: a buyer who dictates how you sell may be disqualified (CHI Ch 10).
+- **Willing minus able**: "Willing minus able equals unqualified for budget." (SES Ch 13).
