@@ -19,9 +19,9 @@ A light, low-cost research method, adapted from the "light" tier of jordan-gibbs
 ## Cost rules
 
 - Search with the built-in web search. Read pages with the built-in fetch first.
-- If a page fails or comes back as an empty JavaScript shell, read it with `c4a-fetch <url>`. It is a free local headless browser (crawl4ai) on the box and prints clean markdown. Add `--raw` for the unfiltered page. If `c4a-fetch` is missing or will not run (for example "command not found"), skip it: retry the page with the built-in fetch or `web_fetch_exa`, then `firecrawl_scrape`, and note in the sources list that c4a-fetch was unavailable.
+- If a page fails or comes back as an empty JavaScript shell, open it in your private desktop's browser (c4a-fetch is not installed on this Mac).
 - Use Exa or Firecrawl only as a last resort, for a page nothing else can read. Never use Exa `agent_run`. No Parallel or Tavily, except Parallel for HPE Virtualization Update Poster (see the Parallel section).
-- X is free too: search it with the public X tools (`search_posts_all`, `search_news`). Treat what X says as field signals, never as fact, until a page you can cite confirms it.
+- The X tools are not available on this Mac. For field signals use Hacker News through the free Algolia API (hn.algolia.com/api/v1, no key) and Exa site:x.com searches. Treat what they say as field signals, never as fact, until a page you can cite confirms it.
 - Some big sites block headless browsers (Best Buy product pages did on Oct 24 2026). Use another page with the same fact, and say which one you used.
 
 ## Shared core
@@ -104,7 +104,7 @@ Only when Modes says so. The shared core, independence check, cite-check, source
 
 - **Search with Exa first.** For each sub-question run `web_search_exa` (Exa connector) before the built-in search. Describe the ideal page in the query. Use the `objective` field to set the date window (for post research, published within about the last 30 days), rank primary sources first (vendor announcements, analyst notes, customer case studies, partner blogs, earnings and filings) and exclude reprints. Put `category:company` in the query for vendor or company pages. Then run the built-in search on the same sub-question to catch what Exa missed.
 - **Keep the heavy X scrape** exactly as your section says. X stays a signal until a page you can cite confirms it.
-- **Read with Firecrawl when the free tools fail.** Read with the built-in fetch or `web_fetch_exa` first, then `c4a-fetch`. If a page still fails, comes back as an empty shell, is cut off, or is a PDF, read it with `firecrawl_scrape` (Firecrawl connector), markdown with `onlyMainContent`, and `maxAge: 0` when the page must be current. Skip the JSON format; it costs 4 extra credits a page.
+- **Read with the browser when the free tools fail.** Read with the built-in fetch or `web_fetch_exa` first. If a page still fails, comes back as an empty shell or is cut off, open it in your private desktop's browser. Firecrawl is not available on this Mac.
 - **Exa agent:** run `agent_run` at most once per post (or once per request outside post research), on that day's theme, at `effort: "high"`. Never use `auto` or `ultra`, which bill by usage. Treat its answer as a lead list: a page it cites counts as a source only after you open it yourself and it passes the cite-check.
 - **Budget per post or request:** up to about 20 Exa searches, 25 Firecrawl pages and 1 agent run. For HPE Virtualization Update Poster's Mon/Wed/Fri post research (Liam, Oct 29 2026): about 40 searches across all engines and 50 pages across all rounds, plus 1 agent run. Stop sooner when the stop rule is met.
 - **Stop rule in deep mode:** every main claim has 2 or more independent sources behind it, the round cap is reached, or the page budget is used up (about 40 pages; 50 for the Poster's post research).
@@ -114,9 +114,9 @@ Only when Modes says so. The shared core, independence check, cite-check, source
 
 Only for HPE Virtualization Update Poster's post research (Liam approved it as the second engine, Oct 27 2026). Every other bot keeps "No Parallel or Tavily".
 
-- **Search:** call it with Shell: `curl -s https://api.parallel.ai/v1/search -H "x-api-key: $PARALLEL_API_KEY" -H "Content-Type: application/json" -d '{...}'`. Your routine gives the objective, the queries and the domains. Use `"mode":"advanced"`. If the call is rejected for the mode, retry the same call once with `"mode":"agentic"` and say which mode worked in the mode line.
-- **Extract:** confirm each kept hit's date with Parallel Extract (`v1/extract`) or by opening the page yourself.
-- **The key:** check that `PARALLEL_API_KEY` is set, then use the variable. Never print or echo it.
+- **Search:** call the Parallel MCP search tool in your tool list (not curl). Your routine gives the objective, the queries and the mode.
+- **Extract:** confirm each kept hit's date with the Parallel MCP extract tool or by opening the page yourself.
+- **No key:** Parallel runs through the MCP server MausBot gives this bot. Never look for, print or ask for an API key.
 - **Treat every hit as a lead.** Drop URLs the Exa pass already returned, and cite-check what you keep like any other source.
 - **If Parallel fails,** finish without it, say so in the mode line, and tell Liam which call failed.
 
