@@ -1,0 +1,28 @@
+# Glossary: The JOLT Effect
+
+- **Agency dilemma / principal-agent problem**: the buyer suspects the better-informed seller acts for themselves (Ch 7).
+- **Buyer's agent**: a seller who acts in the buyer's interest to earn trust (Ch 7).
+- **Cooperative overlapping**: talking along with the buyer to show you're engaged, not to cut them off (Ch 5, from Deborah Tannen).
+- **Death zone**: high-effort, low-stickiness loyalty quadrant (Ch 8, Fig 8.1).
+- **Decision avoidance vs. procrastination**: delaying so as never to decide vs. delaying for other reasons (Ch 3).
+- **Downside risk protection**: opt-outs, guarantees or exit terms that cap the cost of a wrong choice (Ch 6).
+- **Exacerbating factors**: time pressure and decision importance, which deepen indecision (Ch 3).
+- **Errors of commission / omission**: loss from acting vs. loss from not acting (Ch 1).
+- **Forgivable / bearable**: loyalty quadrants: easy but not sticky / sticky but hard (Ch 8).
+- **FUD, four flavors**: urgency, scarcity, wallowing, isolation (Ch 6).
+- **Implicit non-acceptance**: a pause, a change of tone, or "I think so" instead of "Got it" (Ch 5).
+- **Indecision**: wanting to change but fearing the wrong choice; distinct from status quo preference (Ch 1).
+- **JOLT**: Judge the indecision, Offer your recommendation, Limit the exploration, Take risk off the table (Ch 2).
+- **JOLT scorecard**: Fig 3.2; four rows scored 1-7; over 22 of 28 = disqualify or deprioritize (Ch 3).
+- **Lack of information**: indecision source: fear of not knowing enough (Ch 1).
+- **Nirvana**: low-effort, high-stickiness loyalty quadrant (Fig 8.1).
+- **Omission bias**: people regret bad results from action more than from inaction (Ch 1).
+- **Outcome uncertainty**: indecision source: fear the purchase won't deliver (Ch 1).
+- **Post-decision dysfunction**: worrying, checking and decision instability after the choice (Ch 8).
+- **Powell's 40-70 rule**: decide with 40-70% of the information (Ch 5).
+- **Powerful requests**: small asks that test buyer intent (Ch 3).
+- **Pre-buttal**: raising a likely objection before the buyer does (Ch 5).
+- **Radical candor**: telling the buyer plainly what more research won't fix; caring personally while challenging directly (Kim Scott, Ch 5).
+- **Satisficer / maximizer**: wants good enough / wants the best possible (Herbert Simon, Ch 3).
+- **Start smaller**: recommend less than asked to reduce risk (Ch 6).
+- **Valuation problems**: indecision source: can't weigh options against each other (Ch 1).
